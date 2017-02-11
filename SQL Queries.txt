@@ -1,0 +1,9 @@
+
+	View records:
+	
+	Query: select * from info;
+	
+	Update records:
+	
+	Query: update info set name='vinod' where id=1;
+	
